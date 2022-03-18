@@ -35,7 +35,7 @@ publisher페이지에서 테스트 기기를 등록 하실 수 있습니다.
 ### 2. 광고 ID 테스트 단말 등록
 
 <p>먼저 Publisher페이지로 진입 후 페이지 상단의 개발지원센터 메뉴를 선택합니다.</p>
-![reg_test_device_1](/assets/sdk_da/test_device/reg_test_device_1.png)
+![reg_test_device_1](/assets/incentive/incentive_6.png)
 <p>팝업 창이 출력되면 우측 상단의 +추가 버튼을 누릅니다.</p>
 ![reg_test_device_2](/assets/sdk_da/test_device/reg_test_device_2.png)
 <p>테스트 단말 정보를 입력하는 화면이 출력되면 기기를 구분하기 위한 이름과 단말기에서 획득한 광고 ID값을 입력합니다.</p>
