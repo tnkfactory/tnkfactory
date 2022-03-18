@@ -54,6 +54,9 @@ collections:
   sdk_da:
     permalink: "/:collection/:path/"
     output: true
+  incentive:
+    permalink: "/:collection/:path/"
+    output: true
   sdk_rwd:
     permalink: "/:collection/:path/"
     output: true
@@ -89,6 +92,15 @@ just_the_docs:
     sdk_da:
       # Give the collection a name
       name: sdk_da
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+    incentive:
+      # Give the collection a name
+      name: incentive
       # Exclude the collection from the navigation
       # Supports true or false (default)
       nav_exclude: false
