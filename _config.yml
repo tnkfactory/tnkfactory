@@ -60,9 +60,9 @@ collections:
   sdk_rwd:
     permalink: "/:collection/:path/"
     output: true
-  utilities:
-    permalink: "/:collection/:path/"
-    output: true
+  # utilities:
+  #   permalink: "/:collection/:path/"
+  #   output: true
 
 
 just_the_docs:
@@ -118,15 +118,15 @@ just_the_docs:
       # Supports true or false (default)
       search_exclude: false
     # Reference the "docs" collection
-    utilities:
-      # Give the collection a name
-      name: Utilities
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
+    # utilities:
+    #   # Give the collection a name
+    #   name: Utilities
+    #   # Exclude the collection from the navigation
+    #   # Supports true or false (default)
+    #   nav_exclude: false
+    #   # Exclude the collection from the search
+    #   # Supports true or false (default)
+    #   search_exclude: false
 
 
 # Build settings
