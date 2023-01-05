@@ -46,5 +46,7 @@ nav_order: 2
 광고 매체(Android App, iOS App, Web 등)의 id입니다.
 
 <p>앱 개발 시 AndroidManifest.xml 파일 등에 설정합니다.</p>
+
 [Android APP ID id설정](/sdk_rwd/sdk_setting/#manifest-설정하기){:target="_blank"}
+
 [iOS APP ID id설정](https://github.com/tnkfactory/ios-sdk-rwd/blob/master/iOS_Guide.md#tnk-%EA%B0%9D%EC%B2%B4-%EC%B4%88%EA%B8%B0%ED%99%94){:target="_blank"}
