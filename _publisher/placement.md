@@ -27,31 +27,24 @@ permalink: display_ad/placement
 ## 지원하는 광고 종류
 
 ### 전면광고
-
-| Color value    | Font color utility   | Background color utility |
-|:---------------|:---------------------|:-------------------------|
-| Color value    | Font color utility   | Background color utility |
+![guide0](/assets/placement/interstitial_full.png)
+![guide0](/assets/placement/interstitial_half.png)
+![guide0](/assets/placement/interstitial_finish.png)
+![guide0](/assets/placement/interstitial_video.png)
 
 ### 배너광고
 
-| Color value    | Font color utility   |
-|:---------------|:---------------------|
-| <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-000"></span> `grey-lt-000` | `.text-grey-lt-000` |
+![guide0](/assets/placement/banner.png)
+
 
 ### 피드광고
+![guide0](/assets/placement/feed.png)
 
-| Color value    |
-|:---------------|
-| Color value    |
 
 ### 네이티브 광고
+![guide0](/assets/placement/native.png)
 
-| Color value    | Font color utility   |
-|:---------------|:---------------------|
-| Color value    | Font color utility   |
 
 ### 보상형 광고
 
-| Color value    |
-|:---------------|
-| Color value    |
+![guide0](/assets/placement/interstitial_rv.png)
