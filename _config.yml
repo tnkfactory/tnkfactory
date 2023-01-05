@@ -89,9 +89,9 @@ just_the_docs:
       # Supports true or false (default)
       search_exclude: false
     # Reference the "docs" collection
-    sdk_da:
+    da_sdk_android:
       # Give the collection a name
-      name: sdk_da
+      name: da_sdk_android
       # Exclude the collection from the navigation
       # Supports true or false (default)
       nav_exclude: false
