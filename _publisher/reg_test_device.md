@@ -2,7 +2,7 @@
 layout: default
 title: 테스트 기기 등록
 permalink: display_ad/reg_test_device
-nav_order: 5
+nav_order: 4
 ---
 
 # 테스트 기기 등록

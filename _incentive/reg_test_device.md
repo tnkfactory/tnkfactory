@@ -2,7 +2,7 @@
 layout: default
 title: 테스트 기기 등록
 permalink: incentive/reg_test_device
-nav_order: 5
+nav_order: 3
 ---
 
 # 테스트 기기 등록
