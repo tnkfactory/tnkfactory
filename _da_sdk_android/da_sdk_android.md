@@ -3,7 +3,7 @@ layout: default
 title: Tnkfactory SDK DA
 nav_order: 4
 has_children: true
-permalink: docs/sdk_da
+permalink: docs/da_sdk_android
 ---
 
 

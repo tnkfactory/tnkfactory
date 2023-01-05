@@ -32,3 +32,13 @@ Application id와 Placement id는 관리 페이지의 인벤토리->매체 목�
 
 ## Placement id
 해당 광고의 id입니다.
+
+## 광고 배너광고 설정 예제
+
+[인벤토리](https://pub.tnkad.net/pub/pub.inventory.user){:target="_blank"} 메뉴를 에서 광고를 게시 할 매체를 선택합니다.
+![guide0](/assets/placement/placement_0.png)
+
+
+![guide1](/assets/placement/placement_1.png)
+
+![guide2](/assets/placement/placement_2.png)

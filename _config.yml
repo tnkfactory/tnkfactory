@@ -51,7 +51,7 @@ collections:
   publisher:
     permalink: "/:collection/:path/"
     output: true
-  sdk_da:
+  da_sdk_android:
     permalink: "/:collection/:path/"
     output: true
   incentive:
